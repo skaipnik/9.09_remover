@@ -2,9 +2,10 @@
 
 Чтобы использовать это расширение:
 
-1. Откройте Chrome и перейдите на страницу chrome://extensions/
-2. Включите "Режим разработчика" (Developer mode) в правом верхнем углу.
-3. Нажмите "Загрузить распакованное расширение" (Load unpacked) и выберите папку с вашими файлами.
+1. Распакуйте архив notion_909_remover.zip.
+2. Откройте Chrome и перейдите на страницу chrome://extensions/
+3. Включите "Режим разработчика" (Developer mode) в правом верхнем углу.
+4. Нажмите "Загрузить распакованное расширение" (Load unpacked) и выберите ранее распакованную папку с расширением.
 
 Теперь расширение должно автоматически удалять баннер при каждом посещении сайта Notion.
 
@@ -14,8 +15,9 @@ A Chrome extension that removes the notification about Notion no longer being av
 
 To use this extension:
 
-1. Open Chrome and go to chrome://extensions/
-2. Enable "Developer mode" in the top right corner.
-3. Click "Load unpacked" and select the folder with your files.
+1. Unzip the notion_909_remover.zip archive.
+2. Open Chrome and go to chrome://extensions/
+3. Enable "Developer mode" in the top right corner.
+4. Click "Load unpacked" and select the previously unpacked folder with the extension.
 
 The extension should now automatically remove the banner every time you visit the Notion website.
