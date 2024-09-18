@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Notion 9.09 remover",
+  "version": "1.0",
+  "description": "Удаляет уведомление о том, что Notion больше недоступен на территории России.",
+  "permissions": [
+    "scripting"
+  ],
+  "host_permissions": [
+    "*://*.notion.so/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["*://*.notion.so/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
